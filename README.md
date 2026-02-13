@@ -41,7 +41,7 @@ Sangat sederhana—cukup buka file `index.html` di browser, atau jalankan server
 git clone https://github.com/IF-akt25/TI-25
 cd TI-25
 ```
-* Atau
+Atau kalian bisa menggabungkannya dalam satu baris dengan operator `&&` seperti ini:
 ```bash
 git clone https://github.com/IF-akt25/TI-25 && cd TI-25
 ```
