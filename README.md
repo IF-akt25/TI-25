@@ -43,9 +43,10 @@ cd TI-25
 ```
 * Atau
 ```bash
-git clone https://github.com/project-1397/IF-25.git
-cd IF-25
+git clone https://github.com/IF-akt25/TI-25 && cd TI-25
 ```
+Penjelasan singkat:
+* `&&` akan menjalankan perintah kedua (`cd TI-25`) hanya jika perintah pertama (`git clone`) berhasil.
 
 2. Cara cepat (buka langsung):
 
